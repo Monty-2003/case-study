@@ -1,0 +1,2 @@
+Amazon Market Share: https://publishdrive.com/amazon-ebook-market-share.html
+Python Sentiment Analysis using VADER: https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
