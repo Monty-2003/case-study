@@ -1,2 +1,4 @@
 Amazon Market Share: https://publishdrive.com/amazon-ebook-market-share.html
 Python Sentiment Analysis using VADER: https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
+
+Original Project Repository: https://github.com/Monty-2003/DS_project1/
