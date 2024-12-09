@@ -1,6 +1,6 @@
 ## Hook and Rubric Documents
 
-The hook document outlining the case study is the file labeled [hook-cs.pdf](hook-cs.pdf). The rubric [rubric-cs.pdf](rubric-cs.pdf) outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
+The hook document outlining the case study is the file labeled [hook-CS.pdf](hook-CS.pdf). The rubric [rubric-CS.pdf](rubric-CS.pdf) outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
 
 
 ## Data
